@@ -1,0 +1,2 @@
+# -NETWORKWALKSSHAKINNAH-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
+my kali virtual machine is ready
